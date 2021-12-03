@@ -35,21 +35,22 @@ As an alternative, [Rapid Application Development process](https://en.wikipedia
 1. Please give 2 benefits and 2 drawbacks to Waterfall method
 
     ```
-    Please write your answer here.
+    Waterfall as a benefit, it is suggested that software bugs found early can be cheaper than in later stages from planning. Another is a chain of documentation e.g. for if a team member changes. 
+    Drawbacks - said to be not very effective due to an inability to design everything early in the stage. Another is that the design as a knock-on effect might make it more costly anyway. 
     ```
 
 1. Please give 2 benefits and 2 drawbacks to Rapid Application Development method
 
     ```
-    Please write your answer here.
+  It is more adaptive than the plan-driven waterfall and open to feedback to the development process. It can mean early alterations from prototyping to make projects quicker and potentially cheaper. As cons the testing means the scalabiliy is difficult with the less design and version control. It also needs more interaction with the business to make the project succeed. 
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 5
 
-    Clarity: 
+    Clarity: 5
     ```
 
 ### Response Guidelines
